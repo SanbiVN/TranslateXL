@@ -2,6 +2,8 @@
  Hàm dịch và phát hiện ngôn ngữ siêu nhanh
 
 -------------------------------------------------------------------------
+[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/GoogleTranslateXL/total.svg)]()
+
 Hàm dưới đây sẽ giúp dịch thuật và phát hiện ngôn ngữ cho Office và VBA Editor
 Code VBA hoạt động yêu cầu có Internet để dịch thông qua Google Translate​
 Dịch ra nhiều thứ tiếng và nhiều thứ tiếng ra tiếng Việt​
