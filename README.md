@@ -1,5 +1,5 @@
-# GoogleTranslateXL
- Hàm dịch và phát hiện ngôn ngữ siêu nhanh
+# TranslateXL - Dịch ngôn ngữ
+ Hàm dịch và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
 [![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/GoogleTranslateXL/total.svg)]()
