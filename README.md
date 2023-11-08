@@ -11,6 +11,10 @@ Dịch ra nhiều thứ tiếng và nhiều thứ tiếng ra tiếng Việt​
 Với dữ liệu Excel thì khá nhiều ngôn ngữ nên việc dịch thuật là đương nhiên.
 
 
+
+![translatexl](https://github.com/SanbiVN/TranslateXL/assets/58664571/85c4cbcb-ab36-4e76-a59f-275b5f493299)
+
+
 1. Dịch
 - Điền mã ngôn ngữ Mặc định và mã ngôn ngữ cần dịch
 
