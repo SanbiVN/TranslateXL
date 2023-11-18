@@ -29,7 +29,7 @@ phải vào thư mục -> chọn New (Mới) -> chọn Shortcut, cửa sổ hi�
 ​
 ## HƯỚNG DẪN SỬ DỤNG DỊCH NGỮ
 ​
-### Cách xem danh sách ngôn ngữ và ID: bằng cách gõ hàm:=TranslateLanguages()​
+### Cách xem danh sách ngôn ngữ và ID, bằng cách gõ hàm: ```=TranslateLanguages()​```
 Sau khi gõ danh sách sẽ được in ra ô Excel​
 ​
 ### Dịch ngôn ngữ bằng cách gõ hàm:​
