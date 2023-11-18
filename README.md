@@ -87,7 +87,7 @@ Hãy sử dụng hàm cài đặt sau để cài đặt:​
 - Để tắt gõ hàm: ```=TranslateUpdateOff()​```
 - Để bật gõ hàm: ```=TranslateUpdateOn()```
 
-## Language support
+## [Language support](https://cloud.google.com/translate/docs/languages)
 
 Language|ISO-639 code
 ------- | -------
