@@ -33,19 +33,19 @@ phải vào thư mục -> chọn New (Mới) -> chọn Shortcut, cửa sổ hi�
 Sau khi gõ danh sách sẽ được in ra ô Excel​
 ​
 ### Dịch ngôn ngữ bằng cách gõ hàm:​
-Với hàm Translate và hàm TranslateNow, với TranslateNow sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​
+Với hàm `Translate` và hàm `TranslateNow`, với `TranslateNow` sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​
 ​
-Hàm Translate có thể dịch Chuỗi, mảng, hoặc cả vùng ô.​
-(*Lưu ý: nếu sử dụng Add-in, ô gõ hàm sẽ tự động được xóa như TranslateNow)​
+Hàm `Translate` có thể dịch Chuỗi, mảng, hoặc cả vùng ô.​
+(*Lưu ý: nếu sử dụng Add-in, ô gõ hàm sẽ tự động được xóa như `TranslateNow`)​
 
 ### Có 3 tham số cơ bản, và Có 4 tham số bổ trợ:​
-1. Source - Từ ngữ dịch​
-2. FromLanguage - Ngôn ngữ nguồn​
-3. ToLanguage - Mã ngôn ngữ đích​
-4. SkipOnlyAlphabets - Bỏ qua chuỗi chỉ gồm ký tự Aphabets - Ascii​
-5. hDetach - Tách các từ nối nhau (ví dụ: HelloWorldVietNam)​
-6. hSpecial - Các ký tự đặc biệt​
-7. RemoveCharacters - Nhập các ký tự cần bỏ qua trước khi dịch: "-_*&"​
+1. **Source** - Từ ngữ dịch​
+2. **FromLanguage** - Ngôn ngữ nguồn​
+3. **ToLanguage** - Mã ngôn ngữ đích​
+4. **SkipOnlyAlphabets** - Bỏ qua chuỗi chỉ gồm ký tự Aphabets - Ascii​
+5. **hDetach** - Tách các từ nối nhau (ví dụ: HelloWorldVietNam)​
+6. **hSpecial** - Các ký tự đặc biệt​
+7. **RemoveCharacters** - Nhập các ký tự cần bỏ qua trước khi dịch: "-_*&"​
 ​
 Ví dụ 1:​
 ```=Translate("Hello","en","vi")​```
@@ -63,7 +63,7 @@ Hàm LanguageID tìm id của ngôn ngữ:​
 ​
 Hàm DetectLang phát hiện ngôn ngữ: ```=DetectLang("Hello")​```
 ​
-### Dịch ngữ sử dụng phím tắt ```CTRL+ALT+T​```
+### Dịch ngữ sử dụng phím tắt `CTRL+ALT+T​`
 ​
 Chọn một vùng ô cần dịch và nhấn phím tắt. Sau khi nhấn sẽ có thông báo hỏi​
 "Bạn có muốn kết quả dịch trả về vị trí mới?", chọn Xác nhận​
