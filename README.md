@@ -1,4 +1,4 @@
-# TranslateXL - Dịch ngôn ngữ
+# TranslateXL - Add-in Dịch ngôn ngữ cho Excel
  Hàm dịch và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
