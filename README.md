@@ -2,7 +2,7 @@
  Hàm dịch và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
-[Nhấn tải TranslateXL v2.42](https://github.com/SanbiVN/ZaloExcel/releases/download/TranslateXL/TranslateXL_v2.42.zip)[![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/TranslateXL/total.svg)]()
+[Nhấn tải TranslateXL v2.42](https://github.com/SanbiVN/TranslateXL/releases/download/TranslateXL/TranslateXL_v2.42.zip) [![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/TranslateXL/total.svg)]()
 
 Hàm dưới đây sẽ giúp dịch thuật và phát hiện ngôn ngữ cho Office và VBA Editor
 Code VBA hoạt động yêu cầu có Internet để dịch thông qua Google Translate​
