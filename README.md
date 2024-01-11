@@ -1,4 +1,4 @@
-# TranslateXL v2.46 - Add-in Dịch ngôn ngữ cho Excel
+# TranslateXL v2.47 - Add-in Dịch ngôn ngữ cho Excel
  Hàm dịch và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
