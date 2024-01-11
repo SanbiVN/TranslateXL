@@ -34,10 +34,10 @@ phải vào thư mục -> chọn New (Mới) -> chọn Shortcut, cửa sổ hi�
 Sau khi gõ danh sách sẽ được in ra ô Excel​
 ​
 ### Dịch ngôn ngữ bằng cách gõ hàm:​
-Với hàm `Translate` và hàm `TranslateNow`, với `TranslateNow` sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​
+Với hàm `Translate` và hàm `Translate2`, với `Translate2` sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​
 ​
 Hàm `Translate` có thể dịch Chuỗi, mảng, hoặc cả vùng ô.​
-(*Lưu ý: nếu sử dụng Add-in, ô gõ hàm sẽ tự động được xóa như `TranslateNow`)​
+(*Lưu ý: nếu sử dụng Add-in, ô gõ hàm sẽ tự động được xóa như `Translate2`)​
 
 ### Có 3 tham số cơ bản, và Có 4 tham số bổ trợ:​
 1. **Source** - Từ ngữ dịch​
