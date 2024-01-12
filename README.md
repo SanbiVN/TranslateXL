@@ -2,7 +2,7 @@
  Hàm dịch và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
-[Nhấn tải TranslateXL](https://github.com/SanbiVN/TranslateXL/releases/download/TranslateXL/TranslateXL_v2.49.zip)  \
+[Nhấn tải TranslateXL](https://github.com/SanbiVN/TranslateXL/releases/download/TranslateXL/TranslateXL_v2.49.zip)  
 
 [![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/TranslateXL/total.svg)](https://github.com/SanbiVN/TranslateXL/releases/download/TranslateXL/TranslateXL_v2.49.zip)
 
