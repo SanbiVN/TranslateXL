@@ -63,6 +63,8 @@ Hàm LanguageID tìm id của ngôn ngữ:​
 ```VBA=LanguageId("Trung")​```
 ```VBA=LanguageId("Việt")​```
 ​
+Lưu ý: khi gõ hàm dịch bị xóa đi, hay gõ lại ngay vị trí ô trước đó ```=Translate()``` để gọi lại
+
 Hàm DetectLang phát hiện ngôn ngữ: ```=DetectLang("Hello")​```
 ​
 ### Dịch ngữ sử dụng phím tắt `CTRL+ALT+T​`
