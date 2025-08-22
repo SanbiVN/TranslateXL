@@ -6,10 +6,10 @@
 
 [![Tổng tải xuống](https://img.shields.io/github/downloads/SanbiVN/TranslateXL/total.svg)](https://github.com/SanbiVN/TranslateXL/releases/download/TranslateXL/TranslateXL_v2.53.zip)
 
-Hàm dưới đây sẽ giúp dịch thuật và phát hiện ngôn ngữ cho Office và VBA Editor
-Code VBA hoạt động yêu cầu có Internet để dịch thông qua Google Translate​
-Dịch ra nhiều thứ tiếng và nhiều thứ tiếng ra tiếng Việt​
-Ưu điểm: Khi viết code hoặc copy code tham khảo qua mạng, thường sẽ xuất hiện những thuật ngữ mới, vậy nên cần đến dịch thuật.
+Hàm dưới đây sẽ giúp dịch thuật và phát hiện ngôn ngữ cho Office và VBA Editor \
+Code VBA hoạt động yêu cầu có Internet để dịch thông qua Google Translate​ \
+Dịch ra nhiều thứ tiếng và nhiều thứ tiếng ra tiếng Việt​ \
+Ưu điểm: Khi viết code hoặc copy code tham khảo qua mạng, thường sẽ xuất hiện những thuật ngữ mới, vậy nên cần đến dịch thuật. \
 Với dữ liệu Excel thì khá nhiều ngôn ngữ nên việc dịch thuật là đương nhiên.
 
 
@@ -18,15 +18,15 @@ Với dữ liệu Excel thì khá nhiều ngôn ngữ nên việc dịch thuật
 
 
 ### Khi tải về gồm tệp .xlsm và add-in .xlam:
-Tệp xlsm để dịch trực tiếp, hoặc sao chép mã sang dự án mới.​
+Tệp xlsm để dịch trực tiếp, hoặc sao chép mã sang dự án mới.​ \
 Add-in .xlam để dịch nhanh với hàm và phím tắt​
 ​
 ## HƯỚNG DẪN CÀI ĐẶT ADD-IN
 
-Sau khi tải Add-in với đuôi .xlam, nếu đuôi .xlsm thì hãy mở với Excel và lưu thành đuôi .xlam​
-lưu vào thư mục phù hợp. Hãy cài đặt một trong hai cách dưới đây:​
-Cách 1: Mở trình quản lý Add-in, cửa sổ hiện lên, chọn Browser..., tìm đến thư mục.​
-Cách 2: Mở thư mục XLStart và tạo Shortcut, sau khi thư mục mở lên, nhấn chuột​
+Sau khi tải Add-in với đuôi .xlam, nếu đuôi .xlsm thì hãy mở với Excel và lưu thành đuôi .xlam​ \
+lưu vào thư mục phù hợp. Hãy cài đặt một trong hai cách dưới đây:​ \
+ - Cách 1: Mở trình quản lý Add-in, cửa sổ hiện lên, chọn Browser..., tìm đến thư mục.​
+ - Cách 2: Mở thư mục XLStart và tạo Shortcut, sau khi thư mục mở lên, nhấn chuột​
 phải vào thư mục -> chọn New (Mới) -> chọn Shortcut, cửa sổ hiện lên chọn Browser....., tìm đến thư mục.​
 ​
 ## HƯỚNG DẪN SỬ DỤNG DỊCH NGỮ
@@ -69,8 +69,8 @@ Hàm DetectLang phát hiện ngôn ngữ: ```=DetectLang("Hello")​```
 ​
 ### Dịch ngữ sử dụng phím tắt `CTRL+ALT+T​`
 ​
-Chọn một vùng ô cần dịch và nhấn phím tắt. Sau khi nhấn sẽ có thông báo hỏi​
-"Bạn có muốn kết quả dịch trả về vị trí mới?", chọn Xác nhận​
+Chọn một vùng ô cần dịch và nhấn phím tắt. Sau khi nhấn sẽ có thông báo hỏi​ \
+"Bạn có muốn kết quả dịch trả về vị trí mới?", chọn Xác nhận​ \
 Sau khi dịch, để trả lại các từ ngữ ban đầu hãy nhấn Undo hoặc nhấn CTRL+Z​
 ​
 ### Cài đặt mặc định:​
