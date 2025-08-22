@@ -35,9 +35,9 @@ phải vào thư mục -> chọn New (Mới) -> chọn Shortcut, cửa sổ hi�
 Sau khi gõ danh sách sẽ được in ra ô Excel​
 ​
 ### Dịch ngôn ngữ bằng cách gõ hàm:​
-Với hàm `Translate` và hàm `Translate2`, với `Translate2` sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​
+Với hàm `Translate` và hàm `Translate2`, với `Translate2` sau khi dịch thì ô gõ hàm sẽ được xóa đi chỉ còn lại từ đã được dịch. Nếu hàm Translate chạy trong Add-in thì sẽ tương tự.​ \
 ​
-Hàm `Translate` có thể dịch Chuỗi, mảng, hoặc cả vùng ô.​
+Hàm `Translate` có thể dịch Chuỗi, mảng, hoặc cả vùng ô.​ \
 (*Lưu ý: nếu sử dụng Add-in, ô gõ hàm sẽ tự động được xóa như `Translate2`)​
 
 ### Có 3 tham số cơ bản, và Có 4 tham số bổ trợ:​
@@ -58,14 +58,14 @@ Ví dụ 2: Đối số thứ hai để trống thì ngôn ngữ phát hiện v�
 ```=Translate("xin chào", ,"zh-cn")​```
 ```=Translate("xin chào", ,"Trung")​```
 
-Đối số thứ 3 là ngôn ngữ cần dịch để trống thì mặc định là tiếng Việt​
-Hàm LanguageID tìm id của ngôn ngữ:​
-```VBA=LanguageId("Trung")​```
-```VBA=LanguageId("Việt")​```
+Đối số thứ 3 là ngôn ngữ cần dịch để trống thì mặc định là tiếng Việt​ \
+Hàm LanguageID tìm id của ngôn ngữ:​ \
+```VBA=LanguageId("Trung")​``` \
+```VBA=LanguageId("Việt")​``` \
 ​
 Lưu ý: khi gõ hàm dịch bị xóa đi, hay gõ lại ngay vị trí ô trước đó ```=Translate()``` để gọi lại
 
-Hàm DetectLang phát hiện ngôn ngữ: ```=DetectLang("Hello")​```
+Hàm DetectLang phát hiện ngôn ngữ: ```=DetectLang("Hello")​``` 
 ​
 ### Dịch ngữ sử dụng phím tắt `CTRL+ALT+T​`
 ​
@@ -79,7 +79,7 @@ Sau khi dịch, để trả lại các từ ngữ ban đầu hãy nhấn Undo ho
 3. Bỏ qua từ chỉ có ký tự Ascii: 0 (*Khi dịch từ tiếng Việt, hoặc ngôn ngữ tượng hình sang ngôn ngữ khác)​
 4. Tách từ nối liền: 0​
 ​
-Hãy sử dụng hàm cài đặt sau để cài đặt:​
+Hãy sử dụng hàm cài đặt sau để cài đặt:​ \
 ```=TranslateSet("auto","vi", 1, 1)​```
 ​
 - Đổi phím tắt mặc định gõ hàm: ```=TranslateSetKeys("^+%r")​```. Trong đó ^CTRL, +SHIFT , %ALT ​
