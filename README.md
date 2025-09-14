@@ -1,4 +1,4 @@
-# TranslateXL v2.51 - Add-in Dịch thuật cho Excel
+# TranslateXL - Add-in Dịch thuật và phát hiện ngôn ngữ cho Excel
  Trình dịch ngữ và phát hiện đa ngôn ngữ
 
 -------------------------------------------------------------------------
